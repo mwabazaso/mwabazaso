@@ -1,5 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://mwabazaso.io)
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ep3swuiy3ro566gydxg5ehkt8xzfbd4fg0749imc&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 # 💫 About Me:
 🔭 I’m currently working on a school system<br>👯 I’m looking to collaborate on Java or Web Application projects<br>🌱 I’m currently learning Reactjs<br>💬 Ask me about Java and Spring-boot<br>⚡ Fun fact "I love debugging"
 
